@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "CLOVERSMP-ekc5.aternos.me:41451",
+    "port":  41451,
     "version": "",
     "try-creative": false
   },
